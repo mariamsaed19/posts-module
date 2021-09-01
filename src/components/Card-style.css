@@ -1,0 +1,10 @@
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    padding: 5px;
+    border: 2px solid rgba(89, 87, 112, 0.521);
+    border-radius: 5%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.11),rgba(81, 81, 124, 0.377));
+}
+
