@@ -11,18 +11,27 @@ html {
 body {
   margin: 5px;
   padding: 5px;
-  background-image: linear-gradient(to right,rgba(127, 99, 136, 0.658), rgba(18, 62, 88, 0.658),rgba(18, 62, 88, 0.658));
-
+  background-color: rgba(12, 2, 49, 0.61);
+  background-image: linear-gradient(to right,rgba(27, 82, 119, 0.459),rgba(214, 220, 247, 0.322),rgba(10, 100, 160, 0.459),rgba(129, 142, 151, 0.459));
 
 }
 
 div{
-
   justify-content: center;
   margin: 5px;
   padding: 5px;
+
 }
 .card{
   width:70%
 }
 
+h1{
+color: rgba(18, 5, 36, 0.808);
+text-align: center;
+padding: 5px;
+}
+.posts{
+display: grid;
+grid-template-columns: auto auto;
+}
